@@ -21,15 +21,14 @@ I am a frontend developer enthusiast. I have hands on experience working with we
 ### **FULLSTACK WEB DEVELOPER IN TRAINING**
 ### WOMEN IN TECHNOLOGY with MAKING CHANGES ASSOCIATION
 
-2021 - April 2022
+### 2021 - April 2022
 
 Study HTML5, CSS3, JavaScript, jQuery, React, Python, Node.js, Express.js, Rest API, Figma prototyping.
 Uploaded two JS projects to github, check out my repos.
 
 ### **TRANSLATOR**
-### 
 
-2011 - 2020
+### 2010 - 2020
 
 Diligient, enthusiastic, loyal, goal-oriented and passionate about the final product translator.
 
