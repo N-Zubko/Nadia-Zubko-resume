@@ -27,7 +27,6 @@ Study HTML5, CSS3, JavaScript, jQuery, React, Python, Node.js, Express.js, Rest 
 Uploaded two JS projects to github, check out my repos.
 
 ### **TRANSLATOR**
-### 
 
 2011 - 2020
 
