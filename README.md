@@ -30,7 +30,7 @@ Uploaded two JS projects to github, check out my repos.
 
 ### 2010 - 2020
 
-Diligient, enthusiastic, loyal, goal-oriented and passionate about the final product translator.
+Diligent, enthusiastic, loyal, goal-oriented and passionate about the final product translator.
 
 ---
 
